@@ -1,0 +1,34 @@
+        .image{
+            font-size: 20px;
+        }
+        .text{
+            font-size: 30px;
+        }
+        .text2{
+            font-size: 30px;
+        }
+        .GitHub{
+            font-size: 20px;
+        }
+        .header__wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .wrapper__navigation ul li {
+            margin-right: 80px;
+        }
+        .wrapper__navigation ul {
+            list-style-type: none;
+            display: flex;
+            font-size: 35px;
+        }
+        a:hover{
+        cursor: wait;
+        }
+        .info   {
+            transform: scale(1.7);
+            text-decoration: none;
+            color: brown;
+        }
